@@ -1,0 +1,14 @@
+C:\Users\Riski Hidayat\OneDrive\Pictures\TEST_NET\TestParking\bin\Debug\net9.0\TestParking.exe
+C:\Users\Riski Hidayat\OneDrive\Pictures\TEST_NET\TestParking\bin\Debug\net9.0\TestParking.deps.json
+C:\Users\Riski Hidayat\OneDrive\Pictures\TEST_NET\TestParking\bin\Debug\net9.0\TestParking.runtimeconfig.json
+C:\Users\Riski Hidayat\OneDrive\Pictures\TEST_NET\TestParking\bin\Debug\net9.0\TestParking.dll
+C:\Users\Riski Hidayat\OneDrive\Pictures\TEST_NET\TestParking\bin\Debug\net9.0\TestParking.pdb
+C:\Users\Riski Hidayat\OneDrive\Pictures\TEST_NET\TestParking\obj\Debug\net9.0\TestParking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riski Hidayat\OneDrive\Pictures\TEST_NET\TestParking\obj\Debug\net9.0\TestParking.AssemblyInfoInputs.cache
+C:\Users\Riski Hidayat\OneDrive\Pictures\TEST_NET\TestParking\obj\Debug\net9.0\TestParking.AssemblyInfo.cs
+C:\Users\Riski Hidayat\OneDrive\Pictures\TEST_NET\TestParking\obj\Debug\net9.0\TestParking.csproj.CoreCompileInputs.cache
+C:\Users\Riski Hidayat\OneDrive\Pictures\TEST_NET\TestParking\obj\Debug\net9.0\TestParking.dll
+C:\Users\Riski Hidayat\OneDrive\Pictures\TEST_NET\TestParking\obj\Debug\net9.0\refint\TestParking.dll
+C:\Users\Riski Hidayat\OneDrive\Pictures\TEST_NET\TestParking\obj\Debug\net9.0\TestParking.pdb
+C:\Users\Riski Hidayat\OneDrive\Pictures\TEST_NET\TestParking\obj\Debug\net9.0\TestParking.genruntimeconfig.cache
+C:\Users\Riski Hidayat\OneDrive\Pictures\TEST_NET\TestParking\obj\Debug\net9.0\ref\TestParking.dll
